@@ -8,7 +8,7 @@ export const DATA = {
   location: "Bengaluru,India",
   locationLink: "https://maps.app.goo.gl/giJWgGVfWbbfLujdA",
   description:
-    "Software Engineer specializing in Frontend, with a strong eye for design and a solid understanding of backend.",
+    "Frontend Engineer with a keen eye for design and a solid grasp of backend development.",
   summary:
     "I’m currently focused on building and scaling my own projects, including an [open-source UI library](https://chatgpt.com/c/685bbcca-25ac-8004-84af-8aa8e174ac32#projects) built with React and Tailwind, and a [SaaS platform](https://chatgpt.com/c/685bbcca-25ac-8004-84af-8aa8e174ac32#projects) that handles real-world workflows like auth, subscriptions, and role-based access. In the past, [I interned at Xebia and Tensax](https://chatgpt.com/c/685bbcca-25ac-8004-84af-8aa8e174ac32#experience), where I worked on frontend components, cloud architecture, and backend development. Before that, [I completed a double degree in Computer Applications (BCA + MCA) from JECRC University](https://chatgpt.com/c/685bbcca-25ac-8004-84af-8aa8e174ac32#education). I am big nerd about Sci-fi and Fantasy movies. I love to lift and watch Cricket.",
   avatarUrl: "/me.png",
