@@ -1,0 +1,31 @@
+---
+title: "flexbox explained"
+publishedAt: "2021-07-11"
+summary: "trying to blog"
+---
+
+# Flexbox 101: Web Design That Just Works
+
+Let’s be honest. CSS used to be a bit of a pain.
+**Flexbox** — the layout engine that finally made CSS feel like it’s on your side.
+
+This isn’t a boring syntax guide. I’m walking you through Flexbox the way I wish someone had explained it to me when I was building my first dashboard layout at 2AM with a cup of cold chai.
+
+---
+
+## What's the Vibe of Flexbox?
+
+At its core, **Flexbox** is about laying things out _in a row or column_. That’s it. It gives you control over spacing, alignment, and flow — without writing JavaScript hacks or ten utility classes you barely remember.
+
+It’s parent-child based:
+
+- The **parent** becomes a flex container.
+- The **children** become flex items that behave like respectful tenants. They listen. They align. They adapt.
+
+Here’s the starter pack:
+
+```css
+.parent {
+  display: flex;
+}
+```
